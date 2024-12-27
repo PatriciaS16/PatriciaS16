@@ -28,7 +28,7 @@ From playing video games to coding, I've always loved a good challenge. I went f
 
 ---
 
-### 🔥 My Stats:  
+### 🔥 My Stats  
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=PatriciaS16&theme=sunset-gradient&short_numbers=true" alt="GitHub Streak">
 </div>
