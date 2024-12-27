@@ -2,8 +2,6 @@
   <strong> Hello there!👋 I'm Patrícia Soares 👩🏻‍💻</strong>
 </p>
 
-![Patrícia Soares](./desktop/CV/linkedin.png)
-
 From playing video games to coding, I've always loved a good challenge. I went from catching monsters to catching bugs in code. Now as a Junior Full-Stack Developer, I'm leveling up by building clean and functional websites. I bring the same dedication to coding as I did to mastering games. Ready to team up? Let’s create something legendary together!
 
 ---
