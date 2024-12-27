@@ -23,10 +23,11 @@ From playing video games to coding, I've always loved a good challenge. I went f
 
 ---
 
-### 🔥 My Stats:  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PatriciaS16&theme=sunset-gradient&short_numbers=true)](https://git.io/streak-stats)
+### 🤝 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patriciasoaresdev/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patriciadebabo@gmail.com)  
 
 ---
 
-### 🤝 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patriciasoaresdev/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patriciadebabo@gmail.com)  
+### 🔥 My Stats:  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PatriciaS16&theme=sunset-gradient&short_numbers=true)](https://git.io/streak-stats)
+
