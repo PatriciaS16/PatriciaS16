@@ -8,7 +8,7 @@ From playing video games to coding, I've always loved a good challenge. I went f
 
 - 👩🏻 31 years old
 - 🇵🇹 Portuguese  
-- 📚 I'm currently learning ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
+- 📚 I'm currently learning **React**
 - 📸 In my free time I love taking and editing photos
 - 🖥️ Love coding  
 - 🎥 Fun Fact about me: I love horror movies!  
