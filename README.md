@@ -34,9 +34,11 @@ From playing video games to coding, I've always loved a good challenge. I went f
 ### 🔥 My Stats  
 <div align="center">
   <a href="https://github.com/PatriciaS16/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=PatriciaS16" alt="Patricia Soares's GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=PatriciaS16&show_icons=true&theme=radical" alt="Patricia Soares's GitHub stats">
   </a>
 </div>
+
+
 
 
 
