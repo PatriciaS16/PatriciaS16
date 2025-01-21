@@ -33,7 +33,12 @@ From playing video games to coding, I've always loved a good challenge. I went f
 
 ### 🔥 My Stats  
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PatriciaS16&theme=sunset-gradient&short_numbers=true" alt="GitHub Streak">
+  <<div align="center">
+  <a href="https://github.com/PatriciaS16/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=PatriciaS16" alt="Patricia Soares's GitHub stats">
+  </a>
+</div>
+">
 </div>
 
 
