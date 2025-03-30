@@ -10,7 +10,7 @@ From playing video games to coding, I've always loved a good challenge. I went f
 
 **Junior Full Stack Developer**  
 
-- 👩🏻 31 years old
+- 👩🏻 32 years old
 - 🇵🇹 Portuguese  
 - 📚 Always curious and eager to learn
 - 📸 In my free time I love taking and editing photos
