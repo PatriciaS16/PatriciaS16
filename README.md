@@ -37,14 +37,6 @@ From playing video games to coding, I've always loved a good challenge. I went f
 ### 🤝 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patriciasoaresdev/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patriciadebabo@gmail.com)  
 
----
-
-### 🔥 My Stats  
-<div align="center">
-  <a href="https://github.com/PatriciaS16/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=PatriciaS16&show_icons=true&theme=radical" alt="Patricia Soares's GitHub stats">
-  </a>
-</div>
 
 
 
